@@ -249,7 +249,7 @@
     transform: translate3d(0px, 50px, 0);
   }
   .container-blur {
-    transform: translate3d(0px, 50px, 0);
+    transform: translate3d(0px, 70px, 0);
   }
   .gap_container_text_right {
     transform: translate3d(0px, 50px, 0);
@@ -259,6 +259,18 @@
   }
   #aschH {
     transform: translate3d(0px, 50px, 0);
+  }
+  #I1 {
+    transform: translate3d(0px, 60px, 0);
+  }
+  #I2 {
+    transform: translate3d(0px, 60px, 0);
+  }
+  #JobImgBlock1 {
+    transform: translate3d(0px, 60px, 0);
+  }
+  #JobImgBlock2 {
+    transform: translate3d(0px, 60px, 0);
   }
 }
 
